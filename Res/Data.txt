@@ -1,0 +1,6 @@
+Snickers,s,50
+Twix,t,45
+M&M's,m,25
+Kitkat,k,60
+Hershey's,h,70
+Dairy Milk,d,40
